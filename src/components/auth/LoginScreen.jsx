@@ -33,7 +33,7 @@ export const LoginScreen = ({history}) => {
             <Grid container className='contenedor'>
                 <Grid item xs={12} sm={6}>
                     <img
-                        src="https://i.pinimg.com/564x/16/08/24/1608243ae65d90c5e1769c14c44ce12b.jpg"
+                        src="https://i1.wp.com/bloggers.society19.com/wp-content/uploads/2015/11/854ebaf47acbd04c6c0c52688eaf873c.jpg?resize=550%2C851&ssl=1"
                         style={{width:"100%", height:"100vh", objectFit:"cover"}}
                         alt="brand"
                     />
