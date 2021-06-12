@@ -6,7 +6,6 @@
 - React 17
 - Firebase
 - Node js
-- JDK 11 (Open JDK)
 
 ### Steps to run software on localhost
 - Download code
